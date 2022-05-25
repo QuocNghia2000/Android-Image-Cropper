@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Android-Image-Cropper.iml" filepath="$PROJECT_DIR$/.idea/modules/Android-Image-Cropper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cropper/Android-Image-Cropper.cropper.iml" filepath="$PROJECT_DIR$/.idea/modules/cropper/Android-Image-Cropper.cropper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/quick-start/Android-Image-Cropper.quick-start.iml" filepath="$PROJECT_DIR$/.idea/modules/quick-start/Android-Image-Cropper.quick-start.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sample/Android-Image-Cropper.sample.iml" filepath="$PROJECT_DIR$/.idea/modules/sample/Android-Image-Cropper.sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/test/Android-Image-Cropper.test.iml" filepath="$PROJECT_DIR$/.idea/modules/test/Android-Image-Cropper.test.iml" />
+    </modules>
+  </component>
+</project>
