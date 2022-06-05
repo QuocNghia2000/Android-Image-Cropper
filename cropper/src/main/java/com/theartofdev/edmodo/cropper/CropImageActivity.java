@@ -301,7 +301,7 @@ public class CropImageActivity extends AppCompatActivity
 
   /** Result with cropped image data or error if failed. */
   protected void setResult(Uri uri, Exception error, int sampleSize) {
-    int resultCode = error == null ? RESULT_OK;
+    int resultCode = RESULT_OK;
     setResult(resultCode, getResultIntent(uri, error, sampleSize));
     finish();
   }
